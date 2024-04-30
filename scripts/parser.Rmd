@@ -1,0 +1,32 @@
+---
+title: "parser"
+author: "Sharok"
+date: "2024-04-23"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+
+library(tidyverse)
+library(rtracklayer)
+
+```
+
+
+```{r}
+
+test <- read.csv("../data/GC133_overview.txt", sep = "\t")
+test <- read.csv("../data/GC133_selected_contigs.txt", header = F)
+test <- read.csv("../data/GC133_uniInput_header.txt", header = F)
+gff <- import("../data/GC133_prodigal.gff", format = "gff3")
+gff_df <- as.data.frame(gff)
+
+# Assuming `column_with_list` is the name of your column that contains lists
+gff_df$Dbxref <- sapply(gff_df$Dbxref, function(x) paste(x, collapse = ";"))
+str(gff_df)
+write.table(gff_df, "../data/GC133_table.csv", row.names = FALSE, quote = FALSE)
+
+```
+
+
+
