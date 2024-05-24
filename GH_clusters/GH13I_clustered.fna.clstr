@@ -1,0 +1,94 @@
+>Cluster 0
+0	1527aa, >GC2494__contig_5_25... *
+1	1527aa, >GC2504__contig_1_10... at 98.04%
+2	1527aa, >GC2479__contig_4_78... at 100.00%
+3	1527aa, >GC2516__contig_3_78... at 100.00%
+4	1527aa, >GC2474__contig_6_97... at 100.00%
+5	1527aa, >GC2454__contig_1_98... at 100.00%
+6	1527aa, >GC2508__contig_3_97... at 100.00%
+7	1527aa, >GC2463__contig_2_77... at 99.28%
+8	1527aa, >GC2528__contig_5_82... at 100.00%
+9	1527aa, >GC2527__contig_4_14... at 100.00%
+10	1527aa, >GC2510__contig_4_14... at 100.00%
+11	1527aa, >GC2477__contig_1_14... at 96.99%
+12	1527aa, >GC2496__contig_3_18... at 100.00%
+>Cluster 1
+0	1527aa, >GC328__contig_1_334... *
+1	1527aa, >GC462__contig_2_41|... at 97.18%
+2	1527aa, >GC783__contig_12_67... at 96.79%
+3	1527aa, >GC899__contig_4_3|G... at 97.51%
+4	1527aa, >GC710__contig_2_40|... at 97.18%
+5	1527aa, >GC798__contig_3_109... at 97.51%
+6	1527aa, >GC3184__contig_3_14... at 96.20%
+7	1527aa, >GC681__contig_2_268... at 97.18%
+8	1527aa, >GC399__contig_2_242... at 97.18%
+9	1527aa, >GC900__contig_7_3|G... at 97.51%
+10	1527aa, >GC398__contig_2_258... at 97.18%
+11	1527aa, >GC400__contig_2_40|... at 97.18%
+12	1527aa, >GC944__contig_16_51... at 98.49%
+13	1527aa, >GC3191__contig_2_32... at 96.20%
+14	1527aa, >GC751__contig_12_2|... at 96.79%
+15	1527aa, >GC133__contig_1_357... at 100.00%
+16	1527aa, >GC134__contig_1_358... at 100.00%
+>Cluster 2
+0	1515aa, >GC3181__contig_1_62... *
+1	1515aa, >GC2671__contig_1_59... at 95.64%
+2	1515aa, >GC659__contig_3_93|... at 97.36%
+3	1515aa, >GC819__contig_1_571... at 98.15%
+4	1515aa, >GC2686__contig_1_56... at 97.23%
+5	1515aa, >GC733__contig_1_571... at 98.15%
+6	1515aa, >GC2459__contig_1_49... at 98.02%
+7	1515aa, >GC815__contig_1_91|... at 98.15%
+8	1515aa, >GC749__contig_1_571... at 98.15%
+9	1515aa, >GC2286__contig_3_81... at 98.09%
+10	1515aa, >GC816__contig_1_91|... at 98.15%
+11	1515aa, >GC814__contig_1_571... at 98.15%
+12	1515aa, >GC857__contig_1_100... at 98.75%
+13	1515aa, >GC855__contig_1_100... at 98.75%
+14	1515aa, >GC3173__contig_3_90... at 98.88%
+15	1515aa, >GC817__contig_1_571... at 98.15%
+16	1515aa, >GC809__contig_1_571... at 98.15%
+17	1515aa, >GC725__contig_3_80|... at 97.36%
+18	1515aa, >GC2529__contig_4_95... at 98.09%
+19	1515aa, >GC586__contig_3_85|... at 99.21%
+20	1515aa, >GC3176__contig_4_29... at 100.00%
+21	1515aa, >GC2688__contig_5_90... at 97.49%
+22	1515aa, >GC859__contig_1_996... at 98.75%
+23	1515aa, >GC863__contig_1_995... at 98.75%
+24	1515aa, >GC2517__contig_4_81... at 98.09%
+25	1515aa, >GC810__contig_1_91|... at 98.15%
+26	1515aa, >GC622__contig_1_685... at 97.36%
+27	1515aa, >GC854__contig_1_555... at 98.75%
+28	1515aa, >GC666__contig_3_80|... at 97.36%
+29	1515aa, >GC641__contig_1_139... at 96.50%
+30	1515aa, >GC2670__contig_2_30... at 97.23%
+31	1515aa, >GC3180__contig_1_97... at 100.00%
+32	1515aa, >GC737__contig_1_91|... at 98.15%
+33	1515aa, >GC808__contig_1_572... at 98.15%
+34	1515aa, >GC821__contig_1_571... at 98.15%
+35	1515aa, >GC609__contig_2_81|... at 97.36%
+36	1515aa, >GC612__contig_1_135... at 97.36%
+37	1515aa, >GC735__contig_1_571... at 98.15%
+38	1515aa, >GC3198__contig_2_15... at 100.00%
+39	1515aa, >GC607__contig_4_97|... at 97.36%
+40	1515aa, >GC669__contig_3_91|... at 99.21%
+41	1515aa, >GC2538__contig_4_82... at 98.09%
+42	1515aa, >GC2484__contig_2_49... at 98.02%
+43	1515aa, >GC663__contig_3_86|... at 99.21%
+44	1515aa, >GC3197__contig_1_11... at 100.00%
+45	1515aa, >GC736__contig_1_571... at 98.15%
+46	1515aa, >GC632__contig_3_94|... at 97.36%
+47	1515aa, >GC2540__contig_1_49... at 98.02%
+48	1515aa, >GC583__contig_2_94|... at 97.36%
+49	1515aa, >GC657__contig_1_684... at 97.36%
+>Cluster 3
+0	1515aa, >GC2502__contig_4_97... *
+1	1515aa, >GC2539__contig_1_16... at 98.15%
+>Cluster 4
+0	1515aa, >GC914__contig_3_87|... *
+1	1515aa, >GC1061__contig_3_76... at 99.93%
+2	1515aa, >GC2512__contig_4_60... at 99.21%
+3	1515aa, >GC2505__contig_1_54... at 99.21%
+4	1515aa, >GC941__contig_3_80|... at 100.00%
+>Cluster 5
+0	1515aa, >GC948__contig_3_87|... *

@@ -1,0 +1,462 @@
+../genomes/AM1328_S101.fna
+../genomes/AM1328_S101
+'../genomes/../genomes/AM1328_S101_GHoINT.ffn' is not found.
+Traceback (most recent call last):
+  File "gene_extractor.py", line 64, in <module>
+    main()
+  File "gene_extractor.py", line 57, in main
+    output = extract_gene_sequences(args.fasta_path, args.gff_path, args.selected_ids_path)
+  File "gene_extractor.py", line 15, in extract_gene_sequences
+    with open(selected_ids_path, "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '../genomes/../genomes/AM1328_S101_selected_contigs.txt'
+../genomes/AM1493_S100.fna
+../genomes/AM1493_S100
+'../genomes/../genomes/AM1493_S100_GHoINT.ffn' is not found.
+Traceback (most recent call last):
+  File "gene_extractor.py", line 64, in <module>
+    main()
+  File "gene_extractor.py", line 57, in main
+    output = extract_gene_sequences(args.fasta_path, args.gff_path, args.selected_ids_path)
+  File "gene_extractor.py", line 15, in extract_gene_sequences
+    with open(selected_ids_path, "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '../genomes/../genomes/AM1493_S100_selected_contigs.txt'
+../genomes/AM1522_S99.fna
+../genomes/AM1522_S99
+'../genomes/../genomes/AM1522_S99_GHoINT.ffn' is not found.
+Traceback (most recent call last):
+  File "gene_extractor.py", line 64, in <module>
+    main()
+  File "gene_extractor.py", line 57, in main
+    output = extract_gene_sequences(args.fasta_path, args.gff_path, args.selected_ids_path)
+  File "gene_extractor.py", line 15, in extract_gene_sequences
+    with open(selected_ids_path, "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '../genomes/../genomes/AM1522_S99_selected_contigs.txt'
+../genomes/GC1061.fna
+../genomes/GC1061
+'../genomes/../genomes/GC1061_GHoINT.ffn' is not found.
+../genomes/GC1100_assembly.fna
+../genomes/GC1100_assembly
+'../genomes/../genomes/GC1100_assembly_GHoINT.ffn' is not found.
+Traceback (most recent call last):
+  File "gene_extractor.py", line 64, in <module>
+    main()
+  File "gene_extractor.py", line 57, in main
+    output = extract_gene_sequences(args.fasta_path, args.gff_path, args.selected_ids_path)
+  File "gene_extractor.py", line 15, in extract_gene_sequences
+    with open(selected_ids_path, "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '../genomes/../genomes/GC1100_assembly_selected_contigs.txt'
+../genomes/GC133.fna
+../genomes/GC133
+'../genomes/../genomes/GC133_GHoINT.ffn' exists.
+../genomes/GC134.fna
+../genomes/GC134
+'../genomes/../genomes/GC134_GHoINT.ffn' is not found.
+../genomes/GC2286.fna
+../genomes/GC2286
+'../genomes/../genomes/GC2286_GHoINT.ffn' is not found.
+../genomes/GC2397.fna
+../genomes/GC2397
+'../genomes/../genomes/GC2397_GHoINT.ffn' is not found.
+../genomes/GC2403.fna
+../genomes/GC2403
+'../genomes/../genomes/GC2403_GHoINT.ffn' is not found.
+../genomes/GC2405.fna
+../genomes/GC2405
+'../genomes/../genomes/GC2405_GHoINT.ffn' is not found.
+../genomes/GC2408.fna
+../genomes/GC2408
+'../genomes/../genomes/GC2408_GHoINT.ffn' is not found.
+../genomes/GC2454.fna
+../genomes/GC2454
+'../genomes/../genomes/GC2454_GHoINT.ffn' is not found.
+../genomes/GC2459.fna
+../genomes/GC2459
+'../genomes/../genomes/GC2459_GHoINT.ffn' is not found.
+../genomes/GC2463.fna
+../genomes/GC2463
+'../genomes/../genomes/GC2463_GHoINT.ffn' is not found.
+../genomes/GC2470.fna
+../genomes/GC2470
+'../genomes/../genomes/GC2470_GHoINT.ffn' is not found.
+../genomes/GC2474.fna
+../genomes/GC2474
+'../genomes/../genomes/GC2474_GHoINT.ffn' is not found.
+../genomes/GC2475.fna
+../genomes/GC2475
+'../genomes/../genomes/GC2475_GHoINT.ffn' is not found.
+../genomes/GC2477.fna
+../genomes/GC2477
+'../genomes/../genomes/GC2477_GHoINT.ffn' is not found.
+../genomes/GC2479.fna
+../genomes/GC2479
+'../genomes/../genomes/GC2479_GHoINT.ffn' is not found.
+../genomes/GC2484.fna
+../genomes/GC2484
+'../genomes/../genomes/GC2484_GHoINT.ffn' is not found.
+../genomes/GC2491.fna
+../genomes/GC2491
+'../genomes/../genomes/GC2491_GHoINT.ffn' is not found.
+../genomes/GC2492.fna
+../genomes/GC2492
+'../genomes/../genomes/GC2492_GHoINT.ffn' is not found.
+../genomes/GC2494.fna
+../genomes/GC2494
+'../genomes/../genomes/GC2494_GHoINT.ffn' is not found.
+../genomes/GC2496.fna
+../genomes/GC2496
+'../genomes/../genomes/GC2496_GHoINT.ffn' is not found.
+../genomes/GC2502.fna
+../genomes/GC2502
+'../genomes/../genomes/GC2502_GHoINT.ffn' is not found.
+../genomes/GC2503.fna
+../genomes/GC2503
+'../genomes/../genomes/GC2503_GHoINT.ffn' is not found.
+../genomes/GC2504.fna
+../genomes/GC2504
+'../genomes/../genomes/GC2504_GHoINT.ffn' is not found.
+../genomes/GC2505.fna
+../genomes/GC2505
+'../genomes/../genomes/GC2505_GHoINT.ffn' is not found.
+../genomes/GC2508.fna
+../genomes/GC2508
+'../genomes/../genomes/GC2508_GHoINT.ffn' is not found.
+../genomes/GC2510.fna
+../genomes/GC2510
+'../genomes/../genomes/GC2510_GHoINT.ffn' is not found.
+../genomes/GC2512.fna
+../genomes/GC2512
+'../genomes/../genomes/GC2512_GHoINT.ffn' is not found.
+../genomes/GC2516.fna
+../genomes/GC2516
+'../genomes/../genomes/GC2516_GHoINT.ffn' is not found.
+../genomes/GC2517.fna
+../genomes/GC2517
+'../genomes/../genomes/GC2517_GHoINT.ffn' is not found.
+../genomes/GC2523.fna
+../genomes/GC2523
+'../genomes/../genomes/GC2523_GHoINT.ffn' is not found.
+../genomes/GC2524.fna
+../genomes/GC2524
+'../genomes/../genomes/GC2524_GHoINT.ffn' is not found.
+../genomes/GC2527.fna
+../genomes/GC2527
+'../genomes/../genomes/GC2527_GHoINT.ffn' is not found.
+../genomes/GC2528.fna
+../genomes/GC2528
+'../genomes/../genomes/GC2528_GHoINT.ffn' is not found.
+../genomes/GC2529.fna
+../genomes/GC2529
+'../genomes/../genomes/GC2529_GHoINT.ffn' is not found.
+../genomes/GC2538.fna
+../genomes/GC2538
+'../genomes/../genomes/GC2538_GHoINT.ffn' is not found.
+../genomes/GC2539.fna
+../genomes/GC2539
+'../genomes/../genomes/GC2539_GHoINT.ffn' is not found.
+../genomes/GC2540.fna
+../genomes/GC2540
+'../genomes/../genomes/GC2540_GHoINT.ffn' exists.
+../genomes/GC2670.fna
+../genomes/GC2670
+'../genomes/../genomes/GC2670_GHoINT.ffn' is not found.
+../genomes/GC2671.fna
+../genomes/GC2671
+'../genomes/../genomes/GC2671_GHoINT.ffn' is not found.
+../genomes/GC2686.fna
+../genomes/GC2686
+'../genomes/../genomes/GC2686_GHoINT.ffn' is not found.
+../genomes/GC2688.fna
+../genomes/GC2688
+'../genomes/../genomes/GC2688_GHoINT.ffn' is not found.
+../genomes/GC3173.fna
+../genomes/GC3173
+'../genomes/../genomes/GC3173_GHoINT.ffn' is not found.
+../genomes/GC3176.fna
+../genomes/GC3176
+'../genomes/../genomes/GC3176_GHoINT.ffn' is not found.
+../genomes/GC3180.fna
+../genomes/GC3180
+'../genomes/../genomes/GC3180_GHoINT.ffn' is not found.
+../genomes/GC3181.fna
+../genomes/GC3181
+'../genomes/../genomes/GC3181_GHoINT.ffn' is not found.
+../genomes/GC3184.fna
+../genomes/GC3184
+'../genomes/../genomes/GC3184_GHoINT.ffn' is not found.
+../genomes/GC3191.fna
+../genomes/GC3191
+'../genomes/../genomes/GC3191_GHoINT.ffn' is not found.
+../genomes/GC3197.fna
+../genomes/GC3197
+'../genomes/../genomes/GC3197_GHoINT.ffn' is not found.
+../genomes/GC3198.fna
+../genomes/GC3198
+'../genomes/../genomes/GC3198_GHoINT.ffn' is not found.
+../genomes/GC328.fna
+../genomes/GC328
+'../genomes/../genomes/GC328_GHoINT.ffn' is not found.
+../genomes/GC398.fna
+../genomes/GC398
+'../genomes/../genomes/GC398_GHoINT.ffn' is not found.
+../genomes/GC399.fna
+../genomes/GC399
+'../genomes/../genomes/GC399_GHoINT.ffn' is not found.
+../genomes/GC400.fna
+../genomes/GC400
+'../genomes/../genomes/GC400_GHoINT.ffn' is not found.
+../genomes/GC462.fna
+../genomes/GC462
+'../genomes/../genomes/GC462_GHoINT.ffn' is not found.
+../genomes/GC583.fna
+../genomes/GC583
+'../genomes/../genomes/GC583_GHoINT.ffn' is not found.
+../genomes/GC586.fna
+../genomes/GC586
+'../genomes/../genomes/GC586_GHoINT.ffn' is not found.
+../genomes/GC607.fna
+../genomes/GC607
+'../genomes/../genomes/GC607_GHoINT.ffn' is not found.
+../genomes/GC609.fna
+../genomes/GC609
+'../genomes/../genomes/GC609_GHoINT.ffn' is not found.
+../genomes/GC612.fna
+../genomes/GC612
+'../genomes/../genomes/GC612_GHoINT.ffn' is not found.
+../genomes/GC622.fna
+../genomes/GC622
+'../genomes/../genomes/GC622_GHoINT.ffn' is not found.
+../genomes/GC632.fna
+../genomes/GC632
+'../genomes/../genomes/GC632_GHoINT.ffn' is not found.
+../genomes/GC641.fna
+../genomes/GC641
+'../genomes/../genomes/GC641_GHoINT.ffn' is not found.
+../genomes/GC657.fna
+../genomes/GC657
+'../genomes/../genomes/GC657_GHoINT.ffn' is not found.
+../genomes/GC659.fna
+../genomes/GC659
+'../genomes/../genomes/GC659_GHoINT.ffn' is not found.
+../genomes/GC663.fna
+../genomes/GC663
+'../genomes/../genomes/GC663_GHoINT.ffn' is not found.
+../genomes/GC666.fna
+../genomes/GC666
+'../genomes/../genomes/GC666_GHoINT.ffn' is not found.
+../genomes/GC669.fna
+../genomes/GC669
+'../genomes/../genomes/GC669_GHoINT.ffn' is not found.
+../genomes/GC681.fna
+../genomes/GC681
+'../genomes/../genomes/GC681_GHoINT.ffn' is not found.
+../genomes/GC710.fna
+../genomes/GC710
+'../genomes/../genomes/GC710_GHoINT.ffn' exists.
+../genomes/GC725.fna
+../genomes/GC725
+'../genomes/../genomes/GC725_GHoINT.ffn' is not found.
+../genomes/GC733.fna
+../genomes/GC733
+'../genomes/../genomes/GC733_GHoINT.ffn' is not found.
+../genomes/GC735.fna
+../genomes/GC735
+'../genomes/../genomes/GC735_GHoINT.ffn' is not found.
+../genomes/GC736.fna
+../genomes/GC736
+'../genomes/../genomes/GC736_GHoINT.ffn' is not found.
+../genomes/GC737.fna
+../genomes/GC737
+'../genomes/../genomes/GC737_GHoINT.ffn' is not found.
+../genomes/GC749.fna
+../genomes/GC749
+'../genomes/../genomes/GC749_GHoINT.ffn' is not found.
+../genomes/GC751.fna
+../genomes/GC751
+'../genomes/../genomes/GC751_GHoINT.ffn' is not found.
+../genomes/GC783.fna
+../genomes/GC783
+'../genomes/../genomes/GC783_GHoINT.ffn' is not found.
+../genomes/GC798.fna
+../genomes/GC798
+'../genomes/../genomes/GC798_GHoINT.ffn' is not found.
+../genomes/GC808.fna
+../genomes/GC808
+'../genomes/../genomes/GC808_GHoINT.ffn' is not found.
+../genomes/GC809.fna
+../genomes/GC809
+'../genomes/../genomes/GC809_GHoINT.ffn' is not found.
+../genomes/GC810.fna
+../genomes/GC810
+'../genomes/../genomes/GC810_GHoINT.ffn' is not found.
+../genomes/GC814.fna
+../genomes/GC814
+'../genomes/../genomes/GC814_GHoINT.ffn' is not found.
+../genomes/GC815.fna
+../genomes/GC815
+'../genomes/../genomes/GC815_GHoINT.ffn' is not found.
+../genomes/GC816.fna
+../genomes/GC816
+'../genomes/../genomes/GC816_GHoINT.ffn' is not found.
+../genomes/GC817.fna
+../genomes/GC817
+'../genomes/../genomes/GC817_GHoINT.ffn' is not found.
+../genomes/GC819.fna
+../genomes/GC819
+'../genomes/../genomes/GC819_GHoINT.ffn' is not found.
+../genomes/GC821.fna
+../genomes/GC821
+'../genomes/../genomes/GC821_GHoINT.ffn' is not found.
+../genomes/GC854.fna
+../genomes/GC854
+'../genomes/../genomes/GC854_GHoINT.ffn' is not found.
+../genomes/GC855.fna
+../genomes/GC855
+'../genomes/../genomes/GC855_GHoINT.ffn' is not found.
+../genomes/GC857.fna
+../genomes/GC857
+'../genomes/../genomes/GC857_GHoINT.ffn' is not found.
+../genomes/GC859.fna
+../genomes/GC859
+'../genomes/../genomes/GC859_GHoINT.ffn' is not found.
+../genomes/GC863.fna
+../genomes/GC863
+'../genomes/../genomes/GC863_GHoINT.ffn' is not found.
+../genomes/GC87_hybrid_assembly.fna
+../genomes/GC87_hybrid_assembly
+'../genomes/../genomes/GC87_hybrid_assembly_GHoINT.ffn' is not found.
+Traceback (most recent call last):
+  File "gene_extractor.py", line 64, in <module>
+    main()
+  File "gene_extractor.py", line 57, in main
+    output = extract_gene_sequences(args.fasta_path, args.gff_path, args.selected_ids_path)
+  File "gene_extractor.py", line 15, in extract_gene_sequences
+    with open(selected_ids_path, "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '../genomes/../genomes/GC87_hybrid_assembly_selected_contigs.txt'
+../genomes/GC88_hybrid_assembly.fna
+../genomes/GC88_hybrid_assembly
+'../genomes/../genomes/GC88_hybrid_assembly_GHoINT.ffn' is not found.
+Traceback (most recent call last):
+  File "gene_extractor.py", line 64, in <module>
+    main()
+  File "gene_extractor.py", line 57, in main
+    output = extract_gene_sequences(args.fasta_path, args.gff_path, args.selected_ids_path)
+  File "gene_extractor.py", line 15, in extract_gene_sequences
+    with open(selected_ids_path, "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '../genomes/../genomes/GC88_hybrid_assembly_selected_contigs.txt'
+../genomes/GC899.fna
+../genomes/GC899
+'../genomes/../genomes/GC899_GHoINT.ffn' is not found.
+../genomes/GC89_hybrid_assembly.fna
+../genomes/GC89_hybrid_assembly
+'../genomes/../genomes/GC89_hybrid_assembly_GHoINT.ffn' is not found.
+Traceback (most recent call last):
+  File "gene_extractor.py", line 64, in <module>
+    main()
+  File "gene_extractor.py", line 57, in main
+    output = extract_gene_sequences(args.fasta_path, args.gff_path, args.selected_ids_path)
+  File "gene_extractor.py", line 15, in extract_gene_sequences
+    with open(selected_ids_path, "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '../genomes/../genomes/GC89_hybrid_assembly_selected_contigs.txt'
+../genomes/GC900.fna
+../genomes/GC900
+'../genomes/../genomes/GC900_GHoINT.ffn' is not found.
+../genomes/GC90_hybrid_assembly.fna
+../genomes/GC90_hybrid_assembly
+'../genomes/../genomes/GC90_hybrid_assembly_GHoINT.ffn' is not found.
+Traceback (most recent call last):
+  File "gene_extractor.py", line 64, in <module>
+    main()
+  File "gene_extractor.py", line 57, in main
+    output = extract_gene_sequences(args.fasta_path, args.gff_path, args.selected_ids_path)
+  File "gene_extractor.py", line 15, in extract_gene_sequences
+    with open(selected_ids_path, "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '../genomes/../genomes/GC90_hybrid_assembly_selected_contigs.txt'
+../genomes/GC914.fna
+../genomes/GC914
+'../genomes/../genomes/GC914_GHoINT.ffn' is not found.
+../genomes/GC91_hybrid_assembly.fna
+../genomes/GC91_hybrid_assembly
+'../genomes/../genomes/GC91_hybrid_assembly_GHoINT.ffn' is not found.
+Traceback (most recent call last):
+  File "gene_extractor.py", line 64, in <module>
+    main()
+  File "gene_extractor.py", line 57, in main
+    output = extract_gene_sequences(args.fasta_path, args.gff_path, args.selected_ids_path)
+  File "gene_extractor.py", line 15, in extract_gene_sequences
+    with open(selected_ids_path, "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '../genomes/../genomes/GC91_hybrid_assembly_selected_contigs.txt'
+../genomes/GC92_hybrid_assembly.fna
+../genomes/GC92_hybrid_assembly
+'../genomes/../genomes/GC92_hybrid_assembly_GHoINT.ffn' is not found.
+Traceback (most recent call last):
+  File "gene_extractor.py", line 64, in <module>
+    main()
+  File "gene_extractor.py", line 57, in main
+    output = extract_gene_sequences(args.fasta_path, args.gff_path, args.selected_ids_path)
+  File "gene_extractor.py", line 15, in extract_gene_sequences
+    with open(selected_ids_path, "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '../genomes/../genomes/GC92_hybrid_assembly_selected_contigs.txt'
+../genomes/GC93_hybrid_assembly.fna
+../genomes/GC93_hybrid_assembly
+'../genomes/../genomes/GC93_hybrid_assembly_GHoINT.ffn' is not found.
+Traceback (most recent call last):
+  File "gene_extractor.py", line 64, in <module>
+    main()
+  File "gene_extractor.py", line 57, in main
+    output = extract_gene_sequences(args.fasta_path, args.gff_path, args.selected_ids_path)
+  File "gene_extractor.py", line 15, in extract_gene_sequences
+    with open(selected_ids_path, "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '../genomes/../genomes/GC93_hybrid_assembly_selected_contigs.txt'
+../genomes/GC941.fna
+../genomes/GC941
+'../genomes/../genomes/GC941_GHoINT.ffn' is not found.
+../genomes/GC944.fna
+../genomes/GC944
+'../genomes/../genomes/GC944_GHoINT.ffn' is not found.
+../genomes/GC948.fna
+../genomes/GC948
+'../genomes/../genomes/GC948_GHoINT.ffn' is not found.
+../genomes/GC94_hybrid_assembly.fna
+../genomes/GC94_hybrid_assembly
+'../genomes/../genomes/GC94_hybrid_assembly_GHoINT.ffn' is not found.
+Traceback (most recent call last):
+  File "gene_extractor.py", line 64, in <module>
+    main()
+  File "gene_extractor.py", line 57, in main
+    output = extract_gene_sequences(args.fasta_path, args.gff_path, args.selected_ids_path)
+  File "gene_extractor.py", line 15, in extract_gene_sequences
+    with open(selected_ids_path, "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '../genomes/../genomes/GC94_hybrid_assembly_selected_contigs.txt'
+../genomes/GC95_hybrid_assembly.fna
+../genomes/GC95_hybrid_assembly
+'../genomes/../genomes/GC95_hybrid_assembly_GHoINT.ffn' is not found.
+Traceback (most recent call last):
+  File "gene_extractor.py", line 64, in <module>
+    main()
+  File "gene_extractor.py", line 57, in main
+    output = extract_gene_sequences(args.fasta_path, args.gff_path, args.selected_ids_path)
+  File "gene_extractor.py", line 15, in extract_gene_sequences
+    with open(selected_ids_path, "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '../genomes/../genomes/GC95_hybrid_assembly_selected_contigs.txt'
+../genomes/GC96_hybrid_assembly.fna
+../genomes/GC96_hybrid_assembly
+'../genomes/../genomes/GC96_hybrid_assembly_GHoINT.ffn' is not found.
+Traceback (most recent call last):
+  File "gene_extractor.py", line 64, in <module>
+    main()
+  File "gene_extractor.py", line 57, in main
+    output = extract_gene_sequences(args.fasta_path, args.gff_path, args.selected_ids_path)
+  File "gene_extractor.py", line 15, in extract_gene_sequences
+    with open(selected_ids_path, "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '../genomes/../genomes/GC96_hybrid_assembly_selected_contigs.txt'
+../genomes/SP351_S98.fna
+../genomes/SP351_S98
+'../genomes/../genomes/SP351_S98_GHoINT.ffn' is not found.
+Traceback (most recent call last):
+  File "gene_extractor.py", line 64, in <module>
+    main()
+  File "gene_extractor.py", line 57, in main
+    output = extract_gene_sequences(args.fasta_path, args.gff_path, args.selected_ids_path)
+  File "gene_extractor.py", line 15, in extract_gene_sequences
+    with open(selected_ids_path, "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '../genomes/../genomes/SP351_S98_selected_contigs.txt'

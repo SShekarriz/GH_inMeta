@@ -1,0 +1,3313 @@
+'../GH_clusters/GH13B1.fna' is not found.
+Processing fasta directory: ../genomes
+Using mapfile: ../data/GH_subtype.csv
+Results will be saved in: ../GH_clusters
+Mapfile read: 3029 entries found.
+Processed ../genomes/GC3181_GHoINT.ffn: 31 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2671_GHoINT.ffn: 29 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2494_GHoINT.ffn: 18 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2504_GHoINT.ffn: 18 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC659_GHoINT.ffn: 28 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC328_GHoINT.ffn: 21 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/AM1522_S99_GHoINT.ffn: 0 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2479_GHoINT.ffn: 19 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC819_GHoINT.ffn: 30 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2686_GHoINT.ffn: 30 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC733_GHoINT.ffn: 30 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2459_GHoINT.ffn: 25 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2492_GHoINT.ffn: 23 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC815_GHoINT.ffn: 30 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC462_GHoINT.ffn: 21 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC749_GHoINT.ffn: 30 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC89_hybrid_assembly_GHoINT.ffn: 0 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2286_GHoINT.ffn: 23 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC816_GHoINT.ffn: 30 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC783_GHoINT.ffn: 23 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC814_GHoINT.ffn: 30 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC92_hybrid_assembly_GHoINT.ffn: 0 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2516_GHoINT.ffn: 22 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC857_GHoINT.ffn: 28 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC899_GHoINT.ffn: 18 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC710_GHoINT.ffn: 21 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2502_GHoINT.ffn: 21 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC914_GHoINT.ffn: 21 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC855_GHoINT.ffn: 30 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC3173_GHoINT.ffn: 28 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2403_GHoINT.ffn: 23 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2523_GHoINT.ffn: 23 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC817_GHoINT.ffn: 30 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC809_GHoINT.ffn: 30 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2474_GHoINT.ffn: 22 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC95_hybrid_assembly_GHoINT.ffn: 0 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC798_GHoINT.ffn: 18 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC725_GHoINT.ffn: 29 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC3184_GHoINT.ffn: 21 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2529_GHoINT.ffn: 22 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/AM1493_S100_GHoINT.ffn: 0 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC681_GHoINT.ffn: 21 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC586_GHoINT.ffn: 32 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC3176_GHoINT.ffn: 31 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2688_GHoINT.ffn: 27 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2454_GHoINT.ffn: 31 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC859_GHoINT.ffn: 31 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC87_hybrid_assembly_GHoINT.ffn: 0 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC863_GHoINT.ffn: 30 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2517_GHoINT.ffn: 24 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2508_GHoINT.ffn: 22 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC399_GHoINT.ffn: 21 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC810_GHoINT.ffn: 30 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC900_GHoINT.ffn: 21 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC622_GHoINT.ffn: 28 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC854_GHoINT.ffn: 30 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC666_GHoINT.ffn: 28 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC90_hybrid_assembly_GHoINT.ffn: 0 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC1061_GHoINT.ffn: 24 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC641_GHoINT.ffn: 29 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2670_GHoINT.ffn: 29 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2470_GHoINT.ffn: 23 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC3180_GHoINT.ffn: 32 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC96_hybrid_assembly_GHoINT.ffn: 0 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC737_GHoINT.ffn: 30 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC398_GHoINT.ffn: 21 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC808_GHoINT.ffn: 30 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC91_hybrid_assembly_GHoINT.ffn: 0 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2512_GHoINT.ffn: 18 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC821_GHoINT.ffn: 30 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC609_GHoINT.ffn: 28 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2491_GHoINT.ffn: 22 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC612_GHoINT.ffn: 29 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC735_GHoINT.ffn: 30 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC3198_GHoINT.ffn: 30 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2397_GHoINT.ffn: 23 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC607_GHoINT.ffn: 27 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC1100_assembly_GHoINT.ffn: 0 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC669_GHoINT.ffn: 32 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2538_GHoINT.ffn: 22 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2539_GHoINT.ffn: 23 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2463_GHoINT.ffn: 19 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2484_GHoINT.ffn: 26 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2528_GHoINT.ffn: 19 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2405_GHoINT.ffn: 0 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2503_GHoINT.ffn: 23 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC663_GHoINT.ffn: 32 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2527_GHoINT.ffn: 19 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC400_GHoINT.ffn: 21 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2475_GHoINT.ffn: 23 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC93_hybrid_assembly_GHoINT.ffn: 0 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2524_GHoINT.ffn: 23 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC94_hybrid_assembly_GHoINT.ffn: 0 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2505_GHoINT.ffn: 19 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC944_GHoINT.ffn: 21 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC3191_GHoINT.ffn: 21 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2408_GHoINT.ffn: 23 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC941_GHoINT.ffn: 21 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC3197_GHoINT.ffn: 31 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC751_GHoINT.ffn: 23 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC736_GHoINT.ffn: 30 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2510_GHoINT.ffn: 19 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/AM1328_S101_GHoINT.ffn: 0 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC948_GHoINT.ffn: 40 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/SP351_S98_GHoINT.ffn: 0 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC632_GHoINT.ffn: 28 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2477_GHoINT.ffn: 21 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2540_GHoINT.ffn: 26 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC133_GHoINT.ffn: 21 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC134_GHoINT.ffn: 21 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC583_GHoINT.ffn: 28 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC657_GHoINT.ffn: 28 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC2496_GHoINT.ffn: 18 matching headers found.
+Written sequences to ../GH_clusters
+Processed ../genomes/GC88_hybrid_assembly_GHoINT.ffn: 0 matching headers found.
+Written sequences to ../GH_clusters
+Processing completed.
+../GH_clusters/GH112A1.fna
+../GH_clusters/GH112A1
+'../GH_clusters/GH112A1_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH112A1.fna -o
+         ../GH_clusters/GH112A1_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:45 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 49
+longest and shortest : 2256 and 2253
+Total letters: 110517
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 306822
+Max number of word counting entries: 90445683
+
+comparing sequences from          0  to         49
+
+       49  finished          4  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.10
+../GH_clusters/GH112A2.fna
+../GH_clusters/GH112A2
+'../GH_clusters/GH112A2_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH112A2.fna -o
+         ../GH_clusters/GH112A2_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:45 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 1
+longest and shortest : 555 and 555
+Total letters: 555
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 75M
+
+Table limit with the given memory limit:
+Max number of representatives: 1104478
+Max number of word counting entries: 90505766
+
+comparing sequences from          0  to          1
+
+        1  finished          1  clusters
+
+Apprixmated maximum memory consumption: 75M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH136A1.fna
+../GH_clusters/GH136A1
+'../GH_clusters/GH136A1_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH136A1.fna -o
+         ../GH_clusters/GH136A1_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:46 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 1
+longest and shortest : 5118 and 5118
+Total letters: 5118
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 40000
+Max number of word counting entries: 90383705
+
+comparing sequences from          0  to          1
+
+        1  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH136A2.fna
+../GH_clusters/GH136A2
+'../GH_clusters/GH136A2_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH136A2.fna -o
+         ../GH_clusters/GH136A2_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:46 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 9
+longest and shortest : 4107 and 4101
+Total letters: 36939
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 171748
+Max number of word counting entries: 90406471
+
+comparing sequences from          0  to          9
+
+        9  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.07
+../GH_clusters/GH136A3.fna
+../GH_clusters/GH136A3
+'../GH_clusters/GH136A3_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH136A3.fna -o
+         ../GH_clusters/GH136A3_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:46 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 5
+longest and shortest : 4848 and 4818
+Total letters: 24186
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 40000
+Max number of word counting entries: 90388424
+
+comparing sequences from          0  to          5
+
+        5  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.07
+../GH_clusters/GH136B.fna
+../GH_clusters/GH136B
+'../GH_clusters/GH136B_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH136B.fna -o
+         ../GH_clusters/GH136B_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:46 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 4
+longest and shortest : 2925 and 2925
+Total letters: 11700
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 238952
+Max number of word counting entries: 90441206
+
+comparing sequences from          0  to          4
+
+        4  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.06
+../GH_clusters/GH13A1.fna
+../GH_clusters/GH13A1
+'../GH_clusters/GH13A1_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH13A1.fna -o
+         ../GH_clusters/GH13A1_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:46 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 43
+longest and shortest : 2976 and 2826
+Total letters: 123921
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 245471
+Max number of word counting entries: 90424970
+
+comparing sequences from          0  to         43
+
+       43  finished          5  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.16
+../GH_clusters/GH13A2.fna
+../GH_clusters/GH13A2
+'../GH_clusters/GH13A2_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH13A2.fna -o
+         ../GH_clusters/GH13A2_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:46 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 21
+longest and shortest : 4569 and 3000
+Total letters: 64797
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 232025
+Max number of word counting entries: 90390426
+
+comparing sequences from          0  to         21
+
+       21  finished          2  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.10
+../GH_clusters/GH13A3.fna
+../GH_clusters/GH13A3
+'../GH_clusters/GH13A3_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH13A3.fna -o
+         ../GH_clusters/GH13A3_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:46 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 31
+longest and shortest : 2250 and 2172
+Total letters: 68925
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 309202
+Max number of word counting entries: 90451436
+
+comparing sequences from          0  to         31
+
+       31  finished          2  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.08
+../GH_clusters/GH13A4.fna
+../GH_clusters/GH13A4
+'../GH_clusters/GH13A4_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH13A4.fna -o
+         ../GH_clusters/GH13A4_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:46 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 2
+longest and shortest : 1170 and 891
+Total letters: 2061
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 569485
+Max number of word counting entries: 90489181
+
+comparing sequences from          0  to          2
+
+        2  finished          2  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH13A5.fna
+../GH_clusters/GH13A5
+'../GH_clusters/GH13A5_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH13A5.fna -o
+         ../GH_clusters/GH13A5_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:46 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 1
+longest and shortest : 1623 and 1623
+Total letters: 1623
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 419696
+Max number of word counting entries: 90477197
+
+comparing sequences from          0  to          1
+
+        1  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH13A6.fna
+../GH_clusters/GH13A6
+'../GH_clusters/GH13A6_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH13A6.fna -o
+         ../GH_clusters/GH13A6_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:46 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 3
+longest and shortest : 1035 and 1035
+Total letters: 3105
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 637252
+Max number of word counting entries: 90492623
+
+comparing sequences from          0  to          3
+
+        3  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH13B1.fna
+../GH_clusters/GH13B1
+'../GH_clusters/GH13B1_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH13B1.fna -o
+         ../GH_clusters/GH13B1_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:46 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 50
+longest and shortest : 1638 and 1269
+Total letters: 78693
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 416022
+Max number of word counting entries: 90466095
+
+comparing sequences from          0  to         50
+
+       50  finished          2  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.08
+../GH_clusters/GH13B3.fna
+../GH_clusters/GH13B3
+'../GH_clusters/GH13B3_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH13B3.fna -o
+         ../GH_clusters/GH13B3_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:46 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 51
+longest and shortest : 5331 and 5073
+Total letters: 269838
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 77M
+
+Table limit with the given memory limit:
+Max number of representatives: 40000
+Max number of word counting entries: 90343855
+
+comparing sequences from          0  to         51
+
+       51  finished          5  clusters
+
+Apprixmated maximum memory consumption: 77M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.41
+../GH_clusters/GH13B4.fna
+../GH_clusters/GH13B4
+'../GH_clusters/GH13B4_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH13B4.fna -o
+         ../GH_clusters/GH13B4_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:47 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 51
+longest and shortest : 2058 and 2049
+Total letters: 104823
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 335462
+Max number of word counting entries: 90451625
+
+comparing sequences from          0  to         51
+
+       51  finished          3  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.11
+../GH_clusters/GH13B5.fna
+../GH_clusters/GH13B5
+'../GH_clusters/GH13B5_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH13B5.fna -o
+         ../GH_clusters/GH13B5_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:47 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 41
+longest and shortest : 4413 and 4344
+Total letters: 180864
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 40000
+Max number of word counting entries: 90379634
+
+comparing sequences from          0  to         41
+
+       41  finished          2  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.15
+../GH_clusters/GH13C1.fna
+../GH_clusters/GH13C1
+'../GH_clusters/GH13C1_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH13C1.fna -o
+         ../GH_clusters/GH13C1_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:47 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 177
+longest and shortest : 1815 and 1671
+Total letters: 311712
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 388982
+Max number of word counting entries: 90429490
+
+comparing sequences from          0  to        177
+
+      177  finished         15  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.18
+../GH_clusters/GH13C2.fna
+../GH_clusters/GH13C2
+'../GH_clusters/GH13C2_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH13C2.fna -o
+         ../GH_clusters/GH13C2_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:47 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 5
+longest and shortest : 1248 and 1248
+Total letters: 6240
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 536515
+Max number of word counting entries: 90486517
+
+comparing sequences from          0  to          5
+
+        5  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH13C4.fna
+../GH_clusters/GH13C4
+'../GH_clusters/GH13C4_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH13C4.fna -o
+         ../GH_clusters/GH13C4_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:47 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 4
+longest and shortest : 990 and 765
+Total letters: 3300
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 821746
+Max number of word counting entries: 90493775
+
+comparing sequences from          0  to          4
+
+        4  finished          3  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH13D1.fna
+../GH_clusters/GH13D1
+'../GH_clusters/GH13D1_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH13D1.fna -o
+         ../GH_clusters/GH13D1_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:47 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 195
+longest and shortest : 2625 and 2121
+Total letters: 450849
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 283507
+Max number of word counting entries: 90390123
+
+comparing sequences from          0  to        195
+
+      195  finished         11  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.25
+../GH_clusters/GH13E1.fna
+../GH_clusters/GH13E1
+'../GH_clusters/GH13E1_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH13E1.fna -o
+         ../GH_clusters/GH13E1_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:48 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 44
+longest and shortest : 1773 and 1605
+Total letters: 71901
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 417417
+Max number of word counting entries: 90463482
+
+comparing sequences from          0  to         44
+
+       44  finished          3  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.08
+../GH_clusters/GH13E2.fna
+../GH_clusters/GH13E2
+'../GH_clusters/GH13E2_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH13E2.fna -o
+         ../GH_clusters/GH13E2_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:48 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 8
+longest and shortest : 1419 and 1329
+Total letters: 10722
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 506041
+Max number of word counting entries: 90481337
+
+comparing sequences from          0  to          8
+
+        8  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH13E3.fna
+../GH_clusters/GH13E3
+'../GH_clusters/GH13E3_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH13E3.fna -o
+         ../GH_clusters/GH13E3_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:48 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 1
+longest and shortest : 1902 and 1902
+Total letters: 1902
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 361174
+Max number of word counting entries: 90469733
+
+comparing sequences from          0  to          1
+
+        1  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH13F1.fna
+../GH_clusters/GH13F1
+'../GH_clusters/GH13F1_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH13F1.fna -o
+         ../GH_clusters/GH13F1_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:48 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 106
+longest and shortest : 1842 and 1821
+Total letters: 193140
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 376297
+Max number of word counting entries: 90445121
+
+comparing sequences from          0  to        106
+
+      106  finished          9  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.12
+../GH_clusters/GH13F2.fna
+../GH_clusters/GH13F2
+'../GH_clusters/GH13F2_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH13F2.fna -o
+         ../GH_clusters/GH13F2_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:48 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 3
+longest and shortest : 1299 and 1038
+Total letters: 3378
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 633708
+Max number of word counting entries: 90485560
+
+comparing sequences from          0  to          3
+
+        3  finished          3  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH13G.fna
+../GH_clusters/GH13G
+'../GH_clusters/GH13G_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH13G.fna -o
+         ../GH_clusters/GH13G_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:48 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 98
+longest and shortest : 2316 and 2181
+Total letters: 220977
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 306368
+Max number of word counting entries: 90429208
+
+comparing sequences from          0  to         98
+
+       98  finished          5  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.17
+../GH_clusters/GH13H1.fna
+../GH_clusters/GH13H1
+'../GH_clusters/GH13H1_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH13H1.fna -o
+         ../GH_clusters/GH13H1_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:48 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 22
+longest and shortest : 2076 and 1815
+Total letters: 43293
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 335956
+Max number of word counting entries: 90459469
+
+comparing sequences from          0  to         22
+
+       22  finished          3  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.07
+../GH_clusters/GH13I.fna
+../GH_clusters/GH13I
+'../GH_clusters/GH13I_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH13I.fna -o
+         ../GH_clusters/GH13I_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:48 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 88
+longest and shortest : 1527 and 1515
+Total letters: 133680
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 447682
+Max number of word counting entries: 90461352
+
+comparing sequences from          0  to         88
+
+       88  finished          6  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.11
+../GH_clusters/GH13J.fna
+../GH_clusters/GH13J
+'../GH_clusters/GH13J_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH13J.fna -o
+         ../GH_clusters/GH13J_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:48 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 40
+longest and shortest : 1296 and 1263
+Total letters: 51510
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 518022
+Max number of word counting entries: 90478814
+
+comparing sequences from          0  to         40
+
+       40  finished          2  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.07
+../GH_clusters/GH13K.fna
+../GH_clusters/GH13K
+'../GH_clusters/GH13K_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH13K.fna -o
+         ../GH_clusters/GH13K_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:48 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 97
+longest and shortest : 2256 and 2253
+Total letters: 218742
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 306772
+Max number of word counting entries: 90431106
+
+comparing sequences from          0  to         97
+
+       97  finished          5  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.14
+../GH_clusters/GH13L.fna
+../GH_clusters/GH13L
+'../GH_clusters/GH13L_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH13L.fna -o
+         ../GH_clusters/GH13L_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:48 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 16
+longest and shortest : 657 and 642
+Total letters: 10467
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 75M
+
+Table limit with the given memory limit:
+Max number of representatives: 955593
+Max number of word counting entries: 90501484
+
+comparing sequences from          0  to         16
+
+       16  finished          1  clusters
+
+Apprixmated maximum memory consumption: 75M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH1A1.fna
+../GH_clusters/GH1A1
+'../GH_clusters/GH1A1_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH1A1.fna -o
+         ../GH_clusters/GH1A1_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:49 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 1
+longest and shortest : 1062 and 1062
+Total letters: 1062
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 622441
+Max number of word counting entries: 90492203
+
+comparing sequences from          0  to          1
+
+        1  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH1A2.fna
+../GH_clusters/GH1A2
+'../GH_clusters/GH1A2_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH1A2.fna -o
+         ../GH_clusters/GH1A2_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:49 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 13
+longest and shortest : 1488 and 1368
+Total letters: 18078
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 491567
+Max number of word counting entries: 90478471
+
+comparing sequences from          0  to         13
+
+       13  finished          5  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.06
+../GH_clusters/GH1B.fna
+../GH_clusters/GH1B
+'../GH_clusters/GH1B_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH1B.fna -o
+         ../GH_clusters/GH1B_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:49 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 41
+longest and shortest : 1185 and 1176
+Total letters: 48225
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 566759
+Max number of word counting entries: 90482159
+
+comparing sequences from          0  to         41
+
+       41  finished          2  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.07
+../GH_clusters/GH1C.fna
+../GH_clusters/GH1C
+'../GH_clusters/GH1C_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH1C.fna -o
+         ../GH_clusters/GH1C_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:49 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 10
+longest and shortest : 1434 and 1434
+Total letters: 14340
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 471426
+Max number of word counting entries: 90480442
+
+comparing sequences from          0  to         10
+
+       10  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.06
+../GH_clusters/GH20A1.fna
+../GH_clusters/GH20A1
+'../GH_clusters/GH20A1_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH20A1.fna -o
+         ../GH_clusters/GH20A1_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:49 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 46
+longest and shortest : 2337 and 2001
+Total letters: 99300
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 323257
+Max number of word counting entries: 90444991
+
+comparing sequences from          0  to         46
+
+       46  finished          5  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.10
+../GH_clusters/GH20B.fna
+../GH_clusters/GH20B
+'../GH_clusters/GH20B_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH20B.fna -o
+         ../GH_clusters/GH20B_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:49 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 10
+longest and shortest : 3183 and 3183
+Total letters: 31830
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 220150
+Max number of word counting entries: 90431689
+
+comparing sequences from          0  to         10
+
+       10  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.07
+../GH_clusters/GH20C.fna
+../GH_clusters/GH20C
+'../GH_clusters/GH20C_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH20C.fna -o
+         ../GH_clusters/GH20C_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:49 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 10
+longest and shortest : 3342 and 3342
+Total letters: 33420
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 209969
+Max number of word counting entries: 90427257
+
+comparing sequences from          0  to         10
+
+       10  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.07
+../GH_clusters/GH20D.fna
+../GH_clusters/GH20D
+'../GH_clusters/GH20D_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH20D.fna -o
+         ../GH_clusters/GH20D_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:49 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 10
+longest and shortest : 4884 and 4884
+Total letters: 48840
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 40000
+Max number of word counting entries: 90384274
+
+comparing sequences from          0  to         10
+
+       10  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.08
+../GH_clusters/GH20E.fna
+../GH_clusters/GH20E
+'../GH_clusters/GH20E_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH20E.fna -o
+         ../GH_clusters/GH20E_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:49 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 1
+longest and shortest : 2010 and 2010
+Total letters: 2010
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 342675
+Max number of word counting entries: 90466844
+
+comparing sequences from          0  to          1
+
+        1  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH29A1.fna
+../GH_clusters/GH29A1
+'../GH_clusters/GH29A1_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH29A1.fna -o
+         ../GH_clusters/GH29A1_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:49 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 5
+longest and shortest : 1437 and 1311
+Total letters: 7059
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 470510
+Max number of word counting entries: 90481382
+
+comparing sequences from          0  to          5
+
+        5  finished          2  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH29A2.fna
+../GH_clusters/GH29A2
+'../GH_clusters/GH29A2_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH29A2.fna -o
+         ../GH_clusters/GH29A2_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:49 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 2
+longest and shortest : 2142 and 2055
+Total letters: 4197
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 322485
+Max number of word counting entries: 90463035
+
+comparing sequences from          0  to          2
+
+        2  finished          2  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH29A3.fna
+../GH_clusters/GH29A3
+'../GH_clusters/GH29A3_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH29A3.fna -o
+         ../GH_clusters/GH29A3_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:49 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 10
+longest and shortest : 4482 and 4482
+Total letters: 44820
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 40000
+Max number of word counting entries: 90395479
+
+comparing sequences from          0  to         10
+
+       10  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.08
+../GH_clusters/GH29B.fna
+../GH_clusters/GH29B
+'../GH_clusters/GH29B_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH29B.fna -o
+         ../GH_clusters/GH29B_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:49 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 2
+longest and shortest : 1494 and 1482
+Total letters: 2976
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 453679
+Max number of word counting entries: 90480440
+
+comparing sequences from          0  to          2
+
+        2  finished          2  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH2A1.fna
+../GH_clusters/GH2A1
+'../GH_clusters/GH2A1_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH2A1.fna -o
+         ../GH_clusters/GH2A1_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:49 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 1
+longest and shortest : 2235 and 2235
+Total letters: 2235
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 309633
+Max number of word counting entries: 90460826
+
+comparing sequences from          0  to          1
+
+        1  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH2A2.fna
+../GH_clusters/GH2A2
+'../GH_clusters/GH2A2_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH2A2.fna -o
+         ../GH_clusters/GH2A2_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:49 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 28
+longest and shortest : 621 and 546
+Total letters: 16470
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 75M
+
+Table limit with the given memory limit:
+Max number of representatives: 1003312
+Max number of word counting entries: 90501428
+
+comparing sequences from          0  to         28
+
+       28  finished          1  clusters
+
+Apprixmated maximum memory consumption: 75M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH2A3.fna
+../GH_clusters/GH2A3
+'../GH_clusters/GH2A3_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH2A3.fna -o
+         ../GH_clusters/GH2A3_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:49 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 1
+longest and shortest : 1485 and 1485
+Total letters: 1485
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 456258
+Max number of word counting entries: 90480888
+
+comparing sequences from          0  to          1
+
+        1  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH2A4.fna
+../GH_clusters/GH2A4
+'../GH_clusters/GH2A4_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH2A4.fna -o
+         ../GH_clusters/GH2A4_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:50 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 1
+longest and shortest : 1008 and 1008
+Total letters: 1008
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 652789
+Max number of word counting entries: 90493648
+
+comparing sequences from          0  to          1
+
+        1  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH2A5.fna
+../GH_clusters/GH2A5
+'../GH_clusters/GH2A5_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH2A5.fna -o
+         ../GH_clusters/GH2A5_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:50 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 157
+longest and shortest : 3876 and 2991
+Total letters: 494964
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 77M
+
+Table limit with the given memory limit:
+Max number of representatives: 227596
+Max number of word counting entries: 90352125
+
+comparing sequences from          0  to        157
+
+      157  finished          9  clusters
+
+Apprixmated maximum memory consumption: 77M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.31
+../GH_clusters/GH2B2.fna
+../GH_clusters/GH2B2
+'../GH_clusters/GH2B2_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH2B2.fna -o
+         ../GH_clusters/GH2B2_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:50 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 11
+longest and shortest : 2733 and 2712
+Total letters: 29898
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 256784
+Max number of word counting entries: 90443889
+
+comparing sequences from          0  to         11
+
+       11  finished          3  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.07
+../GH_clusters/GH2C.fna
+../GH_clusters/GH2C
+'../GH_clusters/GH2C_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH2C.fna -o
+         ../GH_clusters/GH2C_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:50 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 58
+longest and shortest : 2244 and 2106
+Total letters: 124446
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 321544
+Max number of word counting entries: 90444065
+
+comparing sequences from          0  to         58
+
+       58  finished          4  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.10
+../GH_clusters/GH2D1.fna
+../GH_clusters/GH2D1
+'../GH_clusters/GH2D1_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH2D1.fna -o
+         ../GH_clusters/GH2D1_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:50 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 1
+longest and shortest : 2511 and 2511
+Total letters: 2511
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 276879
+Max number of word counting entries: 90453443
+
+comparing sequences from          0  to          1
+
+        1  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH2D2.fna
+../GH_clusters/GH2D2
+'../GH_clusters/GH2D2_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH2D2.fna -o
+         ../GH_clusters/GH2D2_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:50 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 5
+longest and shortest : 2403 and 2394
+Total letters: 11979
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 289873
+Max number of word counting entries: 90455048
+
+comparing sequences from          0  to          5
+
+        5  finished          2  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH2E.fna
+../GH_clusters/GH2E
+'../GH_clusters/GH2E_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH2E.fna -o
+         ../GH_clusters/GH2E_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:50 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 1
+longest and shortest : 2007 and 2007
+Total letters: 2007
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 343164
+Max number of word counting entries: 90466925
+
+comparing sequences from          0  to          1
+
+        1  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH2H.fna
+../GH_clusters/GH2H
+'../GH_clusters/GH2H_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH2H.fna -o
+         ../GH_clusters/GH2H_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:50 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 1
+longest and shortest : 3414 and 3414
+Total letters: 3414
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 205672
+Max number of word counting entries: 90429287
+
+comparing sequences from          0  to          1
+
+        1  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH2I.fna
+../GH_clusters/GH2I
+'../GH_clusters/GH2I_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH2I.fna -o
+         ../GH_clusters/GH2I_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:50 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 1
+longest and shortest : 1983 and 1983
+Total letters: 1983
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 347120
+Max number of word counting entries: 90467567
+
+comparing sequences from          0  to          1
+
+        1  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH2J.fna
+../GH_clusters/GH2J
+'../GH_clusters/GH2J_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH2J.fna -o
+         ../GH_clusters/GH2J_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:50 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 10
+longest and shortest : 5808 and 5808
+Total letters: 58080
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 77M
+
+Table limit with the given memory limit:
+Max number of representatives: 40000
+Max number of word counting entries: 90358517
+
+comparing sequences from          0  to         10
+
+       10  finished          1  clusters
+
+Apprixmated maximum memory consumption: 77M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.10
+../GH_clusters/GH2K.fna
+../GH_clusters/GH2K
+'../GH_clusters/GH2K_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH2K.fna -o
+         ../GH_clusters/GH2K_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:50 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 1
+longest and shortest : 2844 and 2844
+Total letters: 2844
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 245535
+Max number of word counting entries: 90444535
+
+comparing sequences from          0  to          1
+
+        1  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH33A2.fna
+../GH_clusters/GH33A2
+'../GH_clusters/GH33A2_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH33A2.fna -o
+         ../GH_clusters/GH33A2_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:50 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 10
+longest and shortest : 5388 and 5388
+Total letters: 53880
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 77M
+
+Table limit with the given memory limit:
+Max number of representatives: 40000
+Max number of word counting entries: 90370225
+
+comparing sequences from          0  to         10
+
+       10  finished          1  clusters
+
+Apprixmated maximum memory consumption: 77M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.09
+../GH_clusters/GH33A3.fna
+../GH_clusters/GH33A3
+'../GH_clusters/GH33A3_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH33A3.fna -o
+         ../GH_clusters/GH33A3_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:51 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 10
+longest and shortest : 2505 and 2505
+Total letters: 25050
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 277508
+Max number of word counting entries: 90450588
+
+comparing sequences from          0  to         10
+
+       10  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.06
+../GH_clusters/GH33C.fna
+../GH_clusters/GH33C
+'../GH_clusters/GH33C_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH33C.fna -o
+         ../GH_clusters/GH33C_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:51 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 1
+longest and shortest : 1620 and 1620
+Total letters: 1620
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 420428
+Max number of word counting entries: 90477277
+
+comparing sequences from          0  to          1
+
+        1  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH33D.fna
+../GH_clusters/GH33D
+'../GH_clusters/GH33D_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH33D.fna -o
+         ../GH_clusters/GH33D_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:51 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 1
+longest and shortest : 1584 and 1584
+Total letters: 1584
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 429421
+Max number of word counting entries: 90478240
+
+comparing sequences from          0  to          1
+
+        1  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH3A1.fna
+../GH_clusters/GH3A1
+'../GH_clusters/GH3A1_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH3A1.fna -o
+         ../GH_clusters/GH3A1_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:51 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 6
+longest and shortest : 369 and 369
+Total letters: 2214
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 75M
+
+Table limit with the given memory limit:
+Max number of representatives: 1542673
+Max number of word counting entries: 90510401
+
+comparing sequences from          0  to          6
+
+        6  finished          1  clusters
+
+Apprixmated maximum memory consumption: 75M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH3A3.fna
+../GH_clusters/GH3A3
+'../GH_clusters/GH3A3_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH3A3.fna -o
+         ../GH_clusters/GH3A3_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:51 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 44
+longest and shortest : 1524 and 1428
+Total letters: 64233
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 473198
+Max number of word counting entries: 90471070
+
+comparing sequences from          0  to         44
+
+       44  finished          5  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.07
+../GH_clusters/GH3A4.fna
+../GH_clusters/GH3A4
+'../GH_clusters/GH3A4_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH3A4.fna -o
+         ../GH_clusters/GH3A4_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:51 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 74
+longest and shortest : 2334 and 2058
+Total letters: 166746
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 306779
+Max number of word counting entries: 90436037
+
+comparing sequences from          0  to         74
+
+       74  finished         12  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.12
+../GH_clusters/GH3A5.fna
+../GH_clusters/GH3A5
+'../GH_clusters/GH3A5_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH3A5.fna -o
+         ../GH_clusters/GH3A5_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:51 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 64
+longest and shortest : 2439 and 2406
+Total letters: 155811
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 285009
+Max number of word counting entries: 90434816
+
+comparing sequences from          0  to         64
+
+       64  finished          6  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.11
+../GH_clusters/GH3A6.fna
+../GH_clusters/GH3A6
+'../GH_clusters/GH3A6_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH3A6.fna -o
+         ../GH_clusters/GH3A6_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:51 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 3
+longest and shortest : 1605 and 1569
+Total letters: 4743
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 433266
+Max number of word counting entries: 90477242
+
+comparing sequences from          0  to          3
+
+        3  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH3A7.fna
+../GH_clusters/GH3A7
+'../GH_clusters/GH3A7_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH3A7.fna -o
+         ../GH_clusters/GH3A7_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:51 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 5
+longest and shortest : 972 and 972
+Total letters: 4860
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 674716
+Max number of word counting entries: 90494038
+
+comparing sequences from          0  to          5
+
+        5  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH3A8.fna
+../GH_clusters/GH3A8
+'../GH_clusters/GH3A8_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH3A8.fna -o
+         ../GH_clusters/GH3A8_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:51 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 6
+longest and shortest : 3195 and 3051
+Total letters: 18699
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 225505
+Max number of word counting entries: 90433098
+
+comparing sequences from          0  to          6
+
+        6  finished          4  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.06
+../GH_clusters/GH3A9.fna
+../GH_clusters/GH3A9
+'../GH_clusters/GH3A9_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH3A9.fna -o
+         ../GH_clusters/GH3A9_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:51 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 60
+longest and shortest : 2976 and 2847
+Total letters: 177690
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 234929
+Max number of word counting entries: 90417878
+
+comparing sequences from          0  to         60
+
+       60  finished          9  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.15
+../GH_clusters/GH3B1.fna
+../GH_clusters/GH3B1
+'../GH_clusters/GH3B1_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH3B1.fna -o
+         ../GH_clusters/GH3B1_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:51 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 91
+longest and shortest : 1347 and 1203
+Total letters: 113550
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 533995
+Max number of word counting entries: 90468582
+
+comparing sequences from          0  to         91
+
+       91  finished          5  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.09
+../GH_clusters/GH3B2.fna
+../GH_clusters/GH3B2
+'../GH_clusters/GH3B2_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH3B2.fna -o
+         ../GH_clusters/GH3B2_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:51 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 5
+longest and shortest : 801 and 801
+Total letters: 4005
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 802826
+Max number of word counting entries: 90498698
+
+comparing sequences from          0  to          5
+
+        5  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH3C.fna
+../GH_clusters/GH3C
+'../GH_clusters/GH3C_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH3C.fna -o
+         ../GH_clusters/GH3C_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:52 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 88
+longest and shortest : 2397 and 2331
+Total letters: 206469
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 296927
+Max number of word counting entries: 90429090
+
+comparing sequences from          0  to         88
+
+       88  finished          8  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.15
+../GH_clusters/GH3D.fna
+../GH_clusters/GH3D
+'../GH_clusters/GH3D_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH3D.fna -o
+         ../GH_clusters/GH3D_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:52 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 14
+longest and shortest : 2280 and 2253
+Total letters: 31812
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 303761
+Max number of word counting entries: 90455647
+
+comparing sequences from          0  to         14
+
+       14  finished          3  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.07
+../GH_clusters/GH42A1.fna
+../GH_clusters/GH42A1
+'../GH_clusters/GH42A1_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH42A1.fna -o
+         ../GH_clusters/GH42A1_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:52 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 178
+longest and shortest : 2193 and 1923
+Total letters: 371727
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 332062
+Max number of word counting entries: 90411904
+
+comparing sequences from          0  to        178
+
+      178  finished         16  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.24
+../GH_clusters/GH42A3.fna
+../GH_clusters/GH42A3
+'../GH_clusters/GH42A3_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH42A3.fna -o
+         ../GH_clusters/GH42A3_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:52 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 34
+longest and shortest : 1497 and 1371
+Total letters: 47118
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 491541
+Max number of word counting entries: 90474143
+
+comparing sequences from          0  to         34
+
+       34  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.06
+../GH_clusters/GH42A4.fna
+../GH_clusters/GH42A4
+'../GH_clusters/GH42A4_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH42A4.fna -o
+         ../GH_clusters/GH42A4_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:52 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 6
+longest and shortest : 2235 and 2235
+Total letters: 13410
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 309628
+Max number of word counting entries: 90459319
+
+comparing sequences from          0  to          6
+
+        6  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.06
+../GH_clusters/GH42C.fna
+../GH_clusters/GH42C
+'../GH_clusters/GH42C_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH42C.fna -o
+         ../GH_clusters/GH42C_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:52 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 50
+longest and shortest : 2127 and 2127
+Total letters: 106350
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 324610
+Max number of word counting entries: 90449618
+
+comparing sequences from          0  to         50
+
+       50  finished          4  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.09
+../GH_clusters/GH95A1.fna
+../GH_clusters/GH95A1
+'../GH_clusters/GH95A1_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH95A1.fna -o
+         ../GH_clusters/GH95A1_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:52 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 4
+longest and shortest : 2352 and 2352
+Total letters: 9408
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 294845
+Max number of word counting entries: 90456749
+
+comparing sequences from          0  to          4
+
+        4  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH95A2.fna
+../GH_clusters/GH95A2
+'../GH_clusters/GH95A2_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH95A2.fna -o
+         ../GH_clusters/GH95A2_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:52 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 10
+longest and shortest : 1053 and 930
+Total letters: 10038
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 76M
+
+Table limit with the given memory limit:
+Max number of representatives: 627292
+Max number of word counting entries: 90491124
+
+comparing sequences from          0  to         10
+
+       10  finished          1  clusters
+
+Apprixmated maximum memory consumption: 76M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.05
+../GH_clusters/GH95B.fna
+../GH_clusters/GH95B
+'../GH_clusters/GH95B_clustered.fna' is not found.
+================================================================
+Program: CD-HIT, V4.7 (+OpenMP), Jul 01 2017, 08:43:07
+Command: cd-hit -i ../GH_clusters/GH95B.fna -o
+         ../GH_clusters/GH95B_clustered.fna -c 0.95
+
+Started: Thu May 23 18:05:52 2024
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 10
+longest and shortest : 5880 and 5880
+Total letters: 58800
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 77M
+
+Table limit with the given memory limit:
+Max number of representatives: 40000
+Max number of word counting entries: 90356510
+
+comparing sequences from          0  to         10
+
+       10  finished          1  clusters
+
+Apprixmated maximum memory consumption: 77M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.10
+'../data/GH_reference.fna' is not found.

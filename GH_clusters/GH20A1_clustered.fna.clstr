@@ -1,0 +1,51 @@
+>Cluster 0
+0	2337aa, >GC2492__contig_13_3... *
+1	2337aa, >GC2403__contig_13_3... at 100.00%
+2	2337aa, >GC2523__contig_9_51... at 100.00%
+3	2337aa, >GC2470__contig_32_2... at 100.00%
+4	2337aa, >GC2491__contig_10_3... at 100.00%
+5	2337aa, >GC2397__contig_14_3... at 100.00%
+6	2337aa, >GC2503__contig_10_3... at 100.00%
+7	2337aa, >GC2475__contig_13_3... at 100.00%
+8	2337aa, >GC2524__contig_8_2|... at 100.00%
+9	2337aa, >GC2408__contig_11_3... at 100.00%
+>Cluster 1
+0	2136aa, >GC328__contig_2_234... *
+1	2136aa, >GC462__contig_3_76|... at 99.86%
+2	2136aa, >GC783__contig_1_144... at 99.91%
+3	2136aa, >GC899__contig_1_77|... at 100.00%
+4	2136aa, >GC710__contig_3_76|... at 99.86%
+5	2124aa, >GC798__contig_8_12|... at 99.95%
+6	2136aa, >GC3184__contig_6_88... at 99.91%
+7	2136aa, >GC681__contig_3_76|... at 99.86%
+8	2136aa, >GC399__contig_3_76|... at 99.86%
+9	2136aa, >GC900__contig_1_133... at 100.00%
+10	2136aa, >GC398__contig_3_76|... at 99.86%
+11	2136aa, >GC2527__contig_7_75... at 99.91%
+12	2136aa, >GC400__contig_3_76|... at 99.86%
+13	2136aa, >GC944__contig_9_77|... at 100.00%
+14	2136aa, >GC3191__contig_6_21... at 99.91%
+15	2136aa, >GC751__contig_1_73|... at 99.91%
+16	2136aa, >GC2510__contig_1_75... at 99.91%
+17	2136aa, >GC2477__contig_5_64... at 100.00%
+18	2136aa, >GC133__contig_2_74|... at 100.00%
+19	2136aa, >GC134__contig_2_234... at 100.00%
+>Cluster 2
+0	2118aa, >GC2494__contig_4_12... *
+1	2118aa, >GC2504__contig_6_63... at 99.95%
+2	2118aa, >GC2479__contig_12_6... at 100.00%
+3	2118aa, >GC2516__contig_5_11... at 99.95%
+4	2118aa, >GC2474__contig_7_11... at 99.95%
+5	2118aa, >GC2454__contig_18_2... at 99.95%
+6	2118aa, >GC2508__contig_8_84... at 99.95%
+7	2118aa, >GC2463__contig_6_84... at 99.76%
+8	2118aa, >GC2528__contig_6_62... at 100.00%
+9	2118aa, >GC2496__contig_13_3... at 100.00%
+>Cluster 3
+0	2013aa, >GC2502__contig_11_3... *
+1	2013aa, >GC2512__contig_5_37... at 96.03%
+2	2013aa, >GC2505__contig_5_29... at 96.03%
+>Cluster 4
+0	2001aa, >GC914__contig_7_21|... *
+1	2001aa, >GC2539__contig_10_4... at 95.70%
+2	2001aa, >GC941__contig_7_21|... at 100.00%

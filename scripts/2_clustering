@@ -1,0 +1,50 @@
+#!/bin/bash
+
+########################################################################
+DATE=`date '+%Y-%m-%d-%H:%M'`
+exec > >(tee -i CLUSTERING_${DATE}.log)
+exec 2>&1
+########################################################################
+
+data=../data
+mapfile=../data/GH_subtype.csv
+genomes_d=../genomes
+clusters=../GH_clusters
+
+
+out=$clusters/GH13B1.fna
+if [ -f $out ]; then
+	echo "'$out' exists."
+else
+	echo "'$out' is not found."
+	python subtype_finder.py \
+        $genomes_d $mapfile $clusters
+fi
+
+
+
+for fna in $clusters/*fna;do
+	echo $fna
+
+	# basename of genome	
+	GH=${fna%.fna}
+	echo $GH
+	
+	out=${GH}_clustered.fna
+        if [ -f $out ]; then
+                echo "'$out' exists."
+        else
+                echo "'$out' is not found."
+		cd-hit -i $fna -o ${GH}_clustered.fna -c 0.95
+	fi
+
+done
+
+out=$data/GH_reference.fna
+if [ -f $out ]; then
+        echo "'$out' exists."
+else
+        echo "'$out' is not found."
+	cat $clusters/*_clustered.fna > $data/GH_reference.fna
+fi
+
